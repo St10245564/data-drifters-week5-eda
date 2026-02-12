@@ -246,7 +246,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the course instructors for guidance
 - Data Drifters team members for collaborative effort
-- Open-source community for excellent tools and libraries
 
 ---
 
